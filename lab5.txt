@@ -1,0 +1,27 @@
+1
+-1.1 
+	not work
+-1.2 
+	1 round
+2
+-2.1
+	work
+-2.2
+	1 round
+-2.3
+	insert "exit(EXIT_FAILURE);" above of "/* B */"
+-2.4
+	insert "exit(0);" below of "/* B */"
+3
+-3.1	
+	ls: /usr/bin/ls /usr/share/man/man1/ls.1.gz
+-3.2
+	whoami: /usr/bin/whoami /usr/share/man/man1/whoami.1.gz
+-3.3
+	ps: /usr/bin/ps /usr/share/man/man1/ps.1.gz
+-3.4
+	type is a shell builtin
+-3.5
+	cd is a shell builtin
+-3.6
+	not allow
